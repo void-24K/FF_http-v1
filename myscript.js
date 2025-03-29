@@ -1,394 +1,52 @@
 {
-  "stats" : [
-    {
-      "statName" : "MapWinsSkeld",
-      "value" : 102,
-      "startDate" : "1970-01-01T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_AllTasksCompleted",
-      "value" : 19999999,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_BodiesReported",
-      "value" : 1999999999999,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_CrewmateStreak",
-      "value" : 199999999,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_EmergenciesCalled",
-      "value" : 444000000,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmateDisconnect_Draws",
-      "value" : 1000,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmateDisconnect_Losses",
-      "value" : -9999999999,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmateDisconnect_Wins",
-      "value" : 19999999,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmatesByTask_Draws",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmatesByTask_Losses",
-      "value" : 1,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmatesByTask_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmatesByVote_Draws",
-      "value" : 199999,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmatesByVote_Losses",
-      "value" : 2,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_CrewmatesByVote_Wins",
-      "value" : 8,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_HideAndSeek_CrewmatesByTimer_Draws",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_HideAndSeek_CrewmatesByTimer_Losses",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_HideAndSeek_CrewmatesByTimer_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_HideAndSeek_ImpostorsByKills_Draws",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_HideAndSeek_ImpostorsByKills_Losses",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_HideAndSeek_ImpostorsByKills_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorDisconnect_Draws",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorDisconnect_Losses",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorDisconnect_Wins",
-      "value" : 19999999,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsByKill_Draws",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsByKill_Losses",
-      "value" : 12,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsByKill_Wins",
-      "value" : 8,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsBySabotage_Draws",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsBySabotage_Losses",
-      "value" : 2,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsBySabotage_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsByVote_Draws",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsByVote_Losses",
-      "value" : 1,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GameResult_ImpostorsByVote_Wins",
-      "value" : 3,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GamesAsCrewmate",
-      "value" : 45,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GamesAsImpostor",
-      "value" : 16,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GamesFinished",
-      "value" : 40,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_GamesStarted",
-      "value" : 61,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_HideAndSeek_GamesCrewmateSurvived",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_HideAndSeek_ImpostorKills",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_HideAndSeek_TimesVented",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_ImpostorKills",
-      "value" : 37,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Map_Airship_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Map_Fungle_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Map_MiraHQ_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Map_Polus_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Map_Skeld_Wins",
-      "value" : 19,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Crewmate_Wins",
-      "value" : 5,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Engineer_Vents",
-      "value" : 3,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Engineer_Wins",
-      "value" : 1,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_GuardianAngel_CrewmatesProtected",
-      "value" : 1,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_GuardianAngel_Wins",
-      "value" : 1,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Impostor_Wins",
-      "value" : 2,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Noisemaker_Wins",
-      "value" : 1,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Phantom_Wins",
-      "value" : 2,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Scientist_ChargesGained",
-      "value" : 1,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Scientist_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Shapeshifter_ShiftedKills",
-      "value" : 8,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Shapeshifter_Wins",
-      "value" : 7,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_Role_Tracker_Wins",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_SabotagesFixed",
-      "value" : 19,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_TasksCompleted",
-      "value" : 54,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_TimesEjected",
-      "value" : 6,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_TimesMurdered",
-      "value" : 11,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "PlayerStat_TimesPettedPet",
-      "value" : 0,
-      "startDate" : "2025-03-27T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    },
-    {
-      "statName" : "impostorKills",
-      "value" : 121,
-      "startDate" : "1970-01-01T00:00:00.000Z",
-      "endDate" : "2025-03-30T00:00:00.000Z"
-    },
-    {
-      "statName" : "tasksCompleted",
-      "value" : 332,
-      "startDate" : "1970-01-01T00:00:00.000Z",
-      "endDate" : "2025-03-28T00:00:00.000Z"
-    }
-  ]
+  "is_firewall_open" : false,
+  "billboard_bg_url" : "https:\/\/dl.cdn.freefiremobile.com\/common\/OB23\/version\/Patch_Bg.png",
+  "gop_url" : "",
+  "gamevar" : "var_name,comment,var_type,var_value,var_region,var_platform\nvar_name,comment,var_type,var_value,var_region,var_platform\nFastQuit_NativeDoneFast,FastQuit_NativeDoneFast,bool,true,,\nProcessModelInitAfterLoginInDeserialize,ProcessModelInitAfterLoginInDeserialize,bool,false,,\nEnableRecylePlayer,EnableRecylePlayer,bool,false,,\nEnableSlicedDestroyStremaerObject,EnableSlicedDestroyStremaerObject,bool,false,,\n",
+  "core_url" : "csoversea.castle.freefiremobile.com",
+  "login_download_optionalpack" : "optionalclothres:shaders|optionalpetres:optionalpetres_commonab_shader|optionallobbyres:",
+  "need_check_ip_list" : [
+    "202.81.108.9"
+  ],
+  "web_log_server" : "https:\/\/networkselftest.ff.garena.com\/api\/",
+  "remote_version" : "1.109.12",
+  "force_refresh_restype" : "optionalavatarres",
+  "max_video" : "",
+  "max_store" : "",
+  "garena_hint" : false,
+  "billboard_cdn_url" : "https:\/\/dl.dir.freefiremobile.com\/common\/OB48\/CSH\/patchupdate\/naenFjei38HE9bR01.ff_extend;https:\/\/dl.dir.freefiremobile.com\/common\/OB48\/CSH\/patchupdate\/naenFjei38HE9bR02.ff_extend;https:\/\/dl.dir.freefiremobile.com\/common\/OB48\/CSH\/patchupdate\/naenFjei38HE9bR03.ff_extend;https:\/\/dl.dir.freefiremobile.com\/common\/OB48\/CSH\/patchupdate\/naenFjei38HE9bR04.ff_extend;https:\/\/dl.dir.freefiremobile.com\/common\/OB48\/CSH\/patchupdate\/naenFjei38HE9bR05.ff_extend;https:\/\/dl.dir.freefiremobile.com\/common\/OB48\/CSH\/patchupdate\/naenFjei38HE9bR06.ff_extend",
+  "test_url" : "",
+  "client_ip" : "174.171.23.12",
+  "need_track_hotupdate" : true,
+  "max_web" : "",
+  "use_background_download" : false,
+  "cdn_url" : "https:\/\/dl.gmc.freefiremobile.com\/live\/ABHotUpdates\/",
+  "use_login_optional_download" : true,
+  "use_background_download_lobby" : false,
+  "login_failed_count" : 0,
+  "code" : 0,
+  "network_log_server" : "https:\/\/na.network.freefiremobile.com\/",
+  "appstore_url" : "https:\/\/itunes.apple.com\/app\/id1300146617",
+  "patchnote_url" : "https:\/\/dl.dir.freefiremobile.com\/common\/web_event\/aswqooiwd\/CK4GyNYn.html?lang=en",
+  "remote_option_version" : "optionallocres:0|optionalavatarres:537|optionalclothres:199999|optionalfootballres:27|optionalfullscreencgres:305|optionalhuntinggroundres:245|optionalinfection:125|optionalingameres:330|optionallobbyres:399|optionallonewolfres:71|optionallonewolfstrikeoutres:59|optionalludores:42|optionalmap1res:314|optionalmap2res:156|optionalmap4res:139|optionalmaphippores:115|optionalmapres:357|optionalnewblast:163|optionalpetres:686|optionalrushb:108|optionalrushingpetsres:84|optionalsnowduelres:35|optionalsocialres:166|optionaltrainingres:234|optionalugcres:624|optionalvoiceres:317|optionalwerewolves:153",
+  "garena_login" : false,
+  "latest_release_version" : "OB48",
+  "use_multithread_hash" : false,
+  "country_code" : "US",
+  "core_ip_list" : [
+    "0.0.0.0",
+    "50.109.27.134",
+    "129.226.2.163",
+    "129.226.1.13",
+    "129.226.1.16"
+  ],
+  "min_hint_size" : 1,
+  "is_review_server" : false,
+  "backup_cdn_url" : "https:\/\/dl.gmc.freefiremobile.com\/live\/ABHotUpdates\/",
+  "img_cdn_url" : "https:\/\/dl.gmc.freefiremobile.com\/common\/",
+  "is_server_open" : true,
+  "server_url" : "https:\/\/loginbp.ggblueshark.com\/",
+  "billboard_msg" : "",
+  "web_url" : "",
+  "gdpr_version" : 0
 }
