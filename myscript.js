@@ -1,1 +1,3 @@
-{"event_type":"EventTypeDisconnectFromNetwork","event_payload":"{\"game_mode\":0,\"match_mode\":0,\"map_id\":0,\"group_mode\":0,\"match_number\":0,\"system_software\":\"iOS 18.2.1\",\"system_hardware\":\"Handheld\",\"screen_width\":1623,\"screen_hight\":750,\"dpi\":\"19999999999999999\",\"cpu_hardware\":\"arm64e | 0 | 6\",\"memory\":39665,\"gl_render\":\"Apple A15 GPU\",\"gl_version\":\"Metal\",\"network\":\"WIFI\",\"is_mudp\":false,\"quality\":2,\"disconnection_type\":0,\"disconnect_reason\":0,\"gameserver_ip\":\":0\",\"proxyserver_ip\":\":0\",\"gameserver_proxy_port\":0,\"match_id\":0,\"is_vpn\":false,\"phone_carrier\":\"--\",\"client_ip\":\"174.171.23.12\",\"region\":\"NA\",\"account_id\":7368677444}"}
+{
+  "event_payload": "{\"dpi\":\"999999\"}"
+}
